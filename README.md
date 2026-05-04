@@ -10,7 +10,7 @@ During my time living in Spain, I dedicated a year and a half to studying softwa
 
 and UX/UI design with . </i>
 
-I've also participated in many web and UX/UI courses with <a href="https://buenosaires.gob.ar/educacion/codocodo/el-programa](https://www.instagram.com/agenciadehabilidades/">Agencia de Habilidades</a>, and I'm committed to continuous learning and growth.
+I've also participated in many web and UX/UI courses with <a href="https://www.instagram.com/agenciadehabilidades/">Agencia de Habilidades</a>, and I'm committed to continuous learning and growth.
 
 <hr>
 
