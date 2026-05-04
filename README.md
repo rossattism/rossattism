@@ -4,11 +4,13 @@
 <a href="mailto:rossattism@gmail.com"><img src="https://github.com/gauravghongde/social-icons/blob/master/PNG/White/Gmail_white.png?raw=true" alt="GMAIL logo" style="width: 20px; height: 20px" /></a> &nbsp; &nbsp; 
 <hr>
 
-Hi! I'm Silvi, a <b>graphic designer</b> with extensive experience in technology, currently pursuing Digital Graphic Design at <a href="https://buenosaires.gob.ar/educacion/codocodo/el-programa">Da Vinci School</a>. Alongside my studies, I work independently as a designer while also teaching English at a primary school.
+Hi! I'm Silvi, a <b>digital graphic designer</b>,currently studying at <a href="https://buenosaires.gob.ar/educacion/codocodo/el-programa">Da Vinci School</a>. Alongside my studies, I work independently as a designer while also teaching English at a primary school.
 
-During my time living in Spain, I dedicated a year and a half to studying at <a href="https://www.42malaga.com/">42 Malaga</a>, exploring <i>Web Development</i> with <a href="https://www.samsung.com/es/tecnologiaconproposito/samsung-desarrolladoras/">Samsung Desarrolladoras</a>, <i>RPA Development</i> with <a href="https://spain.generation.org/">Generation Spain</a> and UX/UI design with <a href="https://buenosaires.gob.ar/educacion/codocodo/el-programa">Codo a Codo</a>. </i>
+During my time living in Spain, I dedicated a year and a half to studying software development at <a href="https://www.42malaga.com/">42 Malaga</a>, exploring <i>Web Development</i> with <a href="https://www.samsung.com/es/tecnologiaconproposito/samsung-desarrolladoras/">Samsung Desarrolladoras</a> and <i>RPA Development</i> with <a href="https://spain.generation.org/">Generation Spain</a>.
 
-I'm committed to continuous learning and growth, as I believe this journey is unidirectional, always pushing forward.
+and UX/UI design with . </i>
+
+I've also participated in many web and UX/UI courses with <a href="https://buenosaires.gob.ar/educacion/codocodo/el-programa](https://www.instagram.com/agenciadehabilidades/">Agencia de Habilidades</a>, and I'm committed to continuous learning and growth.
 
 <hr>
 
