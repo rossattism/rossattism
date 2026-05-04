@@ -8,7 +8,7 @@ Hi! I'm Silvi, a <b>digital graphic designer</b>,currently studying at <a href="
 
 During my time living in Spain, I dedicated a year and a half to studying software development at <a href="https://www.42malaga.com/">42 Malaga</a>, exploring <i>Web Development</i> with <a href="https://www.samsung.com/es/tecnologiaconproposito/samsung-desarrolladoras/">Samsung Desarrolladoras</a> and <i>RPA Development</i> with <a href="https://spain.generation.org/">Generation Spain</a>.</i>
 
-I've also participated in many web and UX/UI courses with <a href="https://www.instagram.com/agenciadehabilidades/">Agencia de Habilidades</a>, and I'm committed to continuous learning and growth.
+I've also participated in many web and UX/UI design courses with <a href="https://www.instagram.com/agenciadehabilidades/">Agencia de Habilidades</a> in Buenos Aires. I'm fully committed to continuous learning and growth.
 
 <hr>
 
